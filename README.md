@@ -37,10 +37,11 @@ Certifique-se de que você possui o Node.js instalado. Em seguida, execute:
 
 - npm install
 
-💻 Como Executar
-Inicie o servidor de desenvolvimento:
+💻 Como Executar o servidor de desenvolvimento:
 
 - npm run dev
+
+
 
 📚 Melhorias Futuras
 Adicionar Bootstrap
