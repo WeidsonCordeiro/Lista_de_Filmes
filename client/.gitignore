@@ -1,5 +1,3 @@
-# dependencies
+#Various files and directories to ignore
 node_modules
-
-# production
-/build
+dist
