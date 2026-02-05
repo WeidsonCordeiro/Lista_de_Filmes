@@ -13,7 +13,7 @@ Este projeto é uma aplicação React que consome a API do The Movie Database (T
 - Exibição dos melhores filmes (Top Rated).
 - Busca de filmes por título.
 - Visualização de detalhes dos filmes, incluindo orçamento, faturamento, duração e descrição.
-- Interface responsiva e profissional com carregamento visual (spinner).
+- Carregamento visual (spinner).
 
 ---
 
