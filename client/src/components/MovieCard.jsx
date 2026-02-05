@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import { FaStar } from "react-icons/fa";
 
 const MovieCard = ({ movie, showLink = true }) => {
-  const IMAGE_BASE_URL = import.meta.env.VITE_TMDB_IMAGE_BASE_URL;
+  const IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500";
 
   return (
     <div className="movie-card">
