@@ -4,10 +4,14 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/", // Isso é importante
   build: {
     outDir: "dist",
-    emptyOutDir: true,
+    // Adicione isso para SPA
+    rollupOptions: {
+      input: {
+        main: "./index.html",
+      },
+    },
   },
   server: {
     proxy: {
