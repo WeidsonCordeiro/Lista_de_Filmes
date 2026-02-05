@@ -28,7 +28,6 @@ Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis de ambient
 - VITE_API_KEY=SEU_API_KEY_AQUI
 - VITE_API=https://api.themoviedb.org/3/movie
 - VITE_SEARCH=https://api.themoviedb.org/3/search/movie
-- VITE_IMAGE_URL=https://image.tmdb.org/t/p/w500
 
 Nota: Substitua SEU_API_KEY_AQUI pela sua chave de API do TMDb. Você pode obter uma chave de API [aqui](https://www.themoviedb.org/settings/api)
 
